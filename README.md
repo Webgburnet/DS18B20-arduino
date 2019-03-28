@@ -23,7 +23,7 @@
 ### SeeedStudio
 | DS18B20 |
 | :-------------: |
-| ![](/composants/SeeedStudio/Grove_) |
+| ![](/composants/SeeedStudio/Grove_DS18B20.jpg) |
 
 ## Branchement
 | Fritzing | 
