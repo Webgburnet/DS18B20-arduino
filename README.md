@@ -15,9 +15,13 @@
 | :-------------: | :-------------: | :-------------: |
 | ![](/composants/Arduino%20Mega.jpg) | ![](/composants/Arduino%20Uno.jpg) | ![](/composants/Arduino%20Nano.jpg) |
 
+### Shield
+| Shield Ethernet | Shield WiFi |
+| :-------------: | :-------------: |
+| ![](/composants/SeeedStudio/Shield_Grove_Base.png) | ![](/composants/SeeedStudio/Shield_Grove_Mega.jpg) |
  
 ### SeeedStudio
-| Module 1 |
+| DS18B20 |
 | :-------------: |
 | ![](/composants/SeeedStudio/Grove_) |
 
@@ -25,10 +29,11 @@
 | Fritzing | 
 | :-------------: | 
 | ![](/icone/Fritzing.png) |
+
 ![](/fritzing/Untitled_Sketch.png)
 
 ### Shield
-* NC
+* Shield Grove
 
 ### Analogique
 * A0: NC
