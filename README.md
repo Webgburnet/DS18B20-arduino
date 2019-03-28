@@ -30,7 +30,7 @@
 | :-------------: | 
 | ![](/icone/Fritzing.png) |
 
-![](/fritzing/Untitled_Sketch.png)
+![](/fritzing/DS18B20.png)
 
 ### Shield
 * Shield Grove
